@@ -43,6 +43,18 @@ li a {
 #gmail,
 #images,
 #apps,
-#account {
+#account,
+#privacy,
+#terms,
+#settings {
   float: right;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid #e4e4e4;
+    background-color: #f2f2f2;
+    line-height: 40px;
 }
